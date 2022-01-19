@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KhaliidMn
+- 👋 Hi, I’m Khalid N
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on any Data Science related subjects
